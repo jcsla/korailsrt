@@ -1,4 +1,4 @@
-package data.di
+package com.jcsla.korailsrt.presentation.data.di
 
 import dagger.Module
 import dagger.Provides

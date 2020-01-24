@@ -1,6 +1,6 @@
-package entity.dto.request
+package com.jcsla.korailsrt.presentation.entity.dto.request
 
-import entity.dto.response.Train
+import com.jcsla.korailsrt.presentation.entity.dto.response.Train
 
 data class TicketReservationRequest(
     override var Device: String = "AD",

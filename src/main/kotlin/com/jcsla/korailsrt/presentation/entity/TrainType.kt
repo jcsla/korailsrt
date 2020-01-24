@@ -1,4 +1,4 @@
-package entity
+package com.jcsla.korailsrt.presentation.entity
 
 enum class TrainType(val value: String) {
     KTX("100"),

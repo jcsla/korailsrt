@@ -1,13 +1,13 @@
-package presentation
+package com.jcsla.korailsrt.presentation
 
-import entity.dto.request.LoginRequest
-import entity.dto.request.ScheduleViewRequest
-import entity.dto.request.TicketReservationRequest
-import entity.dto.response.LoginResponse
-import entity.dto.response.ScheduleViewResponse
-import entity.dto.response.TicketReservationResponse
-import entity.dto.response.Train
-import presentation.di.DaggerComponent
+import com.jcsla.korailsrt.presentation.entity.dto.request.LoginRequest
+import com.jcsla.korailsrt.presentation.entity.dto.request.ScheduleViewRequest
+import com.jcsla.korailsrt.presentation.entity.dto.request.TicketReservationRequest
+import com.jcsla.korailsrt.presentation.entity.dto.response.LoginResponse
+import com.jcsla.korailsrt.presentation.entity.dto.response.ScheduleViewResponse
+import com.jcsla.korailsrt.presentation.entity.dto.response.TicketReservationResponse
+import com.jcsla.korailsrt.presentation.entity.dto.response.Train
+import com.jcsla.korailsrt.presentation.di.DaggerComponent
 
 object Korail {
 

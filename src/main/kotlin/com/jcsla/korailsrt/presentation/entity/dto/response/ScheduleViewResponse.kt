@@ -1,4 +1,4 @@
-package entity.dto.response
+package com.jcsla.korailsrt.presentation.entity.dto.response
 
 data class ScheduleViewResponse(
     override val h_msg_cd: String,

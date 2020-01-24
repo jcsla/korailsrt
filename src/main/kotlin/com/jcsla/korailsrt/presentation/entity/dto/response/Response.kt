@@ -1,4 +1,4 @@
-package entity.dto.response
+package com.jcsla.korailsrt.presentation.entity.dto.response
 
 open class Response(
     @Transient open val h_msg_cd: String,
