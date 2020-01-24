@@ -13,7 +13,7 @@ allprojects {
 }
 
 dependencies {
-	        implementation 'com.github.jcsla:korailsrt:a43323d7d2'
+	        implementation 'com.github.jcsla:korailsrt:aca933ffdd'
 }
 ```
 
