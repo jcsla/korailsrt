@@ -1,8 +1,8 @@
-package com.jcsla.korailsrt.presentation.data.api
+package com.jcsla.korailsrt.data.api
 
-import com.jcsla.korailsrt.presentation.entity.dto.response.LoginResponse
-import com.jcsla.korailsrt.presentation.entity.dto.response.ScheduleViewResponse
-import com.jcsla.korailsrt.presentation.entity.dto.response.TicketReservationResponse
+import com.jcsla.korailsrt.entity.dto.response.LoginResponse
+import com.jcsla.korailsrt.entity.dto.response.ScheduleViewResponse
+import com.jcsla.korailsrt.entity.dto.response.TicketReservationResponse
 import okhttp3.RequestBody
 import retrofit2.Call
 import retrofit2.http.Body

@@ -1,8 +1,8 @@
-package com.jcsla.korailsrt.presentation.di
+package com.jcsla.korailsrt.di
 
 import dagger.Component
-import com.jcsla.korailsrt.presentation.data.api.KorailApi
-import com.jcsla.korailsrt.presentation.data.di.ApiModule
+import com.jcsla.korailsrt.data.api.KorailApi
+import com.jcsla.korailsrt.data.di.ApiModule
 import javax.inject.Singleton
 
 @Singleton

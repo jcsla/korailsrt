@@ -1,4 +1,4 @@
-package com.jcsla.korailsrt.presentation.entity.dto.request
+package com.jcsla.korailsrt.entity.dto.request
 
 data class ScheduleViewRequest(
     override var Device: String = "AD",

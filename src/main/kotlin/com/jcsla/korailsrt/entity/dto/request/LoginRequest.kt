@@ -1,4 +1,4 @@
-package com.jcsla.korailsrt.presentation.entity.dto.request
+package com.jcsla.korailsrt.entity.dto.request
 
 import okhttp3.MultipartBody
 
