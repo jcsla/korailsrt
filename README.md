@@ -1,4 +1,4 @@
-### korailsrt
+### korailsrt [![](https://jitpack.io/v/jcsla/korailsrt.svg)](https://jitpack.io/#jcsla/korailsrt)
 Korail (www.letskorail.com) wrapper for Kotlin.
 
 This project was inspired from  [korail2](https://github.com/carpedm20/korail2) of [carpedm20](https://github.com/carpedm20).
