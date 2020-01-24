@@ -11,7 +11,7 @@ import javax.inject.Singleton
         ApiModule::class
     ]
 )
-interface AppComponent {
+interface Component {
 
     fun korailApi(): KorailApi
 }

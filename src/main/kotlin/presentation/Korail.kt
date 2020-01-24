@@ -7,16 +7,16 @@ import entity.dto.response.LoginResponse
 import entity.dto.response.ScheduleViewResponse
 import entity.dto.response.TicketReservationResponse
 import entity.dto.response.Train
-import presentation.di.DaggerAppComponent
+import presentation.di.DaggerComponent
 
 object Korail {
 
     private val appComponent = lazy {
-        val appComponent = DaggerAppComponent.builder().build()
+        val appComponent = DaggerComponent.builder().build()
         appComponent
     }
 
-    private val api =  lazy {
+    private val api = lazy {
         appComponent.value.korailApi()
     }
 
