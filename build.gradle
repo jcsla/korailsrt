@@ -22,8 +22,6 @@ dependencies {
 
     api 'com.google.dagger:dagger:2.25.4'
     kapt 'com.google.dagger:dagger-compiler:2.25.4'
-
-    implementation 'com.github.jcsla:korailsrt:1.0.0'
 }
 
 compileKotlin {
