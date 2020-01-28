@@ -1,2 +1,3 @@
 rootProject.name = 'korailsrt'
 
+include 'core', 'sample'
